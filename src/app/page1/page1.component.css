@@ -1,0 +1,12 @@
+.pop {
+  display: flex;
+  position: absolute;
+  left: 36rem;
+  margin-top: 2rem
+}
+
+@media screen and (max-width: 800px) {
+  .pop{
+    display: none;
+  }
+}

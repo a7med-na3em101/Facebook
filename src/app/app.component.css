@@ -1,0 +1,12 @@
+.novo {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.imego {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
